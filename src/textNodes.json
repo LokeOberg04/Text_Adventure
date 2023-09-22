@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "text": "Det här är en berättelse om hur våra förfäder tog sig till skolan",
+    "options": [
+      {
+        "text": "Börja berättelsen",
+        "nextText": 2
+      },
+      {
+        "text": "Jag bryr mig inte",
+        "nextText": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Vägen till skolan är 72 km, Hur tar du dig dit?",
+    "options": [
+      {
+        "text": "Gå",
+        "nextText": 5
+      },
+      {
+        "text": "Spring",
+        "nextText": 5
+      }
+    ]
+  },
+  {
+  "id": 5,
+    "text": "Halva vägen till skolan så ser du en liten flicka bli attakerad av en orc, Vad gör du?",
+    "options": [
+      {
+        "text": "Rädda flickan",
+        "nextText": 6
+      },
+      {
+        "text": "Fortsätt mot skolan",
+        "nextText": 9
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+      "text": "Gamla mannen var starkare än vad du trodde och nu är du trött, vad gör du?",
+      "options": [
+        {
+          "text": "Fortsätt mot skolan",
+          "nextText": 12
+        },
+        {
+          "text": "Dö",
+          "nextText": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+        "text": "Du offrade flickan och kunde därför gå över bron",
+        "options": [
+          {
+            "text": "fortsätt",
+            "nextText": 12
+          }
+        ]
+      },
+
+      {
+        "id": 12,
+          "text": "Det började storma och du flög med vinden",
+          "options": [
+            {
+              "text": "fortsätt",
+              "nextText": 14
+            }
+          ]
+        },
+
+  {
+    "id": 13,
+      "text": "stormen skickade hem dig :c",
+      "options": [
+        {
+          "text": "Starta om",
+          "nextText": 0
+        }
+      ]
+    },
+
+  {
+    "id": 14,
+      "text": "Du kom till skolan fram till skolan, bra jobbat :з",
+      "options": [
+        {
+          "text": "Starta om",
+          "nextText": 0
+        }
+      ]
+    },
+  {
+    "id": 9,
+      "text": "Du fortsätter mot skolan, halvväggs till skolan så finns det en stor bro men den är vaktad av en gammal man. du bestämmer dig för att gå över men du blir stoppad av gamla mannen, han säger att han kräver ett offer, vad gör du?",
+      "options": [
+        {
+          "text": "Offra flickan",
+          "nextText": 10
+        },
+        {
+          "text": "Slå ner gamla mannen",
+          "nextText": 15
+        }
+      ]
+    },
+    {
+    "id": 6,
+      "text": "Orcen är 3 meter lång och ser extremt start ut, Hur ska du rädda flickan?",
+      "options": [
+        {
+          "text": "Slå ner orcen",
+          "nextText": 8
+        },
+        {
+          "text": "Ta flickan och spring iväg",
+          "nextText": 9
+        }
+      ]
+    },
+    {
+      "id": 8,
+        "text": "Orcen mosade dig",
+        "options": [
+          {
+            "text": "Starta om",
+            "nextText": 1
+          }
+        ]
+      },
+
+  {
+    "id": 3,
+    "text": "Vad gör du här då?",
+    "options": [
+      {
+        "text": "Jag vet inte",
+        "nextText": 4
+      },
+      {
+        "text": "Loke tvingar mig",
+        "nextText": 4
+      },
+      {
+        "text": "Skojigt",
+        "nextText": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "",
+    "options": [
+      {
+        "text": "ok",
+        "nextText": 1
+      }
+    ]
+  }
+]
